@@ -1,0 +1,14 @@
+nltk==3.9.1
+numpy==2.1.3
+pandas==2.2.3
+peft==0.15.2
+rdkit==2025.3.2
+rouge_score==0.1.2
+scikit-learn==1.6.1
+scipy==1.15.3
+seaborn==0.13.2
+torch @ https://download.pytorch.org/whl/cu124/torch-2.5.1%2Bcu124-cp312-cp312-linux_x86_64.whl#sha256=bf6484bfe5bc4f92a4a1a1bf553041505e19a911f717065330eb061afe0e14d7
+torchvision @ https://download.pytorch.org/whl/cu124/torchvision-0.20.1%2Bcu124-cp312-cp312-linux_x86_64.whl#sha256=d1053ec5054549e7dac2613b151bffe323f3c924939d296df4d7d34925aaf3ad
+tqdm==4.67.1
+transformers==4.51.3
+umap-learn==0.5.9.post2
