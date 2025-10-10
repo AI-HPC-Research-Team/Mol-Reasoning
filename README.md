@@ -6,6 +6,6 @@ The rapid evolution of artificial intelligence in molecular science necessitates
 
 ![Overview of the reasoning framework](fig/figure_1_overview.png)
 
-**Figure 1:** Overview of the reasoning framework.  
+**Figure 1: Overview of the reasoning framework. **
 (a) Current LLMs in multi-task molecular science tasks, showcasing their core capabilities and inherent challenges.  
 (b) Molecular multi-task reasoning framework, detailing the process from user query to inference, featuring tokenization and embedding, specialist selection via a router, and a multi-specialist layer within a pre-trained LLM. This framework unifies diverse molecular tasks through data synergy and embeds chemical logic into CoT reasoning for science-grounded outputs, with an example showcasing a text-based molecular generation task.
