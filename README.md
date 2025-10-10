@@ -4,7 +4,7 @@ The rapid evolution of artificial intelligence in molecular science necessitates
 
 ## Overview Figure
 
-![Overview of the reasoning framework](fig/figure_1_overview.pdf)
+![Overview of the reasoning framework](fig/figure_1_overview.png)
 
 **Figure 1:** Overview of the reasoning framework.  
 (a) Current LLMs in multi-task molecular science tasks, showcasing their core capabilities and inherent challenges.  
